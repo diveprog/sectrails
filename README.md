@@ -52,7 +52,7 @@ klik kanan pada folder > extract to folder
 
 ----------------------------------------------------------------------------------------
 
-# _Apabila sudah terinstall Python maka langkah selanjutnya yakni instalasi dependensi / install_
+# _Apabila sudah terinstall Python maka langkah selanjutnya yakni instalasi library dengan command:
 
 - pip install -r requirements.txt
 - pip3 install -r requirements.txt
