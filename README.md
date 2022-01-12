@@ -1,3 +1,5 @@
+TEST
+
 # Bismillahirrahmanirrahim.
 
 sectrails.py merupakan program ini dibuat untuk melakukan scanning subdomain dengan menggunakan 
