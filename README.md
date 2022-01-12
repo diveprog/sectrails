@@ -92,4 +92,4 @@ Kekurangan:
 
 ----------------------------------------------------------------------------------------
 
-# Mohon maaf apabila ada fungsi yang tidak bejalan.
+**Mohon maaf apabila ada fungsi yang tidak bejalan.**
