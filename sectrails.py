@@ -35,8 +35,8 @@ def get_sub_domains(domain,filepath):
   return sub_domains
 
 
-domain = input("\nMasukkan nama domain : ")
-filepath = input("\nBerikan nama file untuk di simpan : ")
+domain = input("\Insert domain name : ")
+filepath = input("\nInsert the file name to save : ")
 print('')
 
 print("Starting scan at :",s)
