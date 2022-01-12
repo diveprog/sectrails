@@ -62,7 +62,7 @@ Tunggu hingga proses selesai maka program siap untuk digunakan
 
 ----------------------------------------------------------------------------------------
 
-**--CARA PENGGUNAAN--**
+# CARA PENGGUNAAN
 
 agar dapat berjalan sebagaimana fungsinya diperlukan akses sebagai user tertinggi dalam hal ini 
 root
