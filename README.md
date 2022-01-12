@@ -27,7 +27,7 @@ klik kanan pada folder > extract to folder
 - python3 --version
 - pip3 --version
 
-# _-Apabila belum memiliki Python dan pip_
+# _-Apabila belum memiliki Python dan pip-_
 # Linux Debian
 
 - sudo apt install python3
@@ -52,7 +52,7 @@ klik kanan pada folder > extract to folder
 
 ----------------------------------------------------------------------------------------
 
-# _Apabila sudah terinstall Python maka langkah selanjutnya yakni instalasi library dengan command:
+# _-Apabila sudah terinstall Python maka langkah selanjutnya yakni instalasi library dengan command:_
 
 - pip install -r requirements.txt
 - pip3 install -r requirements.txt
