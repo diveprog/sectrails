@@ -1,7 +1,5 @@
 # Bismillahirrahmanirrahim.
 
-----------------------------------------------------------------------------------------
-
 sectrails.py merupakan program ini dibuat untuk melakukan scanning subdomain dengan menggunakan 
 engine yang dimiliki Securitytrails.com memanfaatkan Publik API dan Secret Key (dengan cara 
 mendaftar akun).
