@@ -6,7 +6,7 @@ mendaftar akun).
 
 ----------------------------------------------------------------------------------------
 
-**--KEBUTUHAN--**
+# KEBUTUHAN
 
 Untuk bisa menjalankan program ini diperlukan bahasa pemrograman Python dan instalasi dependensi / 
 install library yang digunakan oleh Python agar dapat berjalan sebagaimana mestinya. Program ini 
