@@ -34,7 +34,7 @@ Berikut cara melakukan instalasinya
 - sudo apt install python3-pip / sudo install apt python-pip
 - sudo apt update
 
-**Windows **
+**Windows**
 
 - Kunjungi website https://www.python.org/downloads/
 - Download Python versi 3 yang tertera pada awal halaman, berwarna kotak kuning
