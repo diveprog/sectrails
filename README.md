@@ -20,9 +20,9 @@ Berikut cara melakukan instalasinya
 
 # Windows
 
-klik kanan pada folder > extract to folder
+- klik kanan pada folder > extract to folder
 
-- Cek versi python dan pip dengan menjalankan command pada terminal
+**Cek versi python dan pip dengan menjalankan command pada terminal**
 
 - python3 --version
 - pip3 --version
@@ -40,7 +40,8 @@ klik kanan pada folder > extract to folder
 - Download Python versi 3 yang tertera pada awal halaman, berwarna kotak kuning
 - Lakukan instalasi sebagaimana biasa pada Windows
 - Apabila sudah selesai instalasi, buka command prompt dan arahkan ke folder dimana file tersimpan
-- Cek versi python dan pip dengan menjalankan command pada command prompt
+
+**Cek versi python dan pip dengan menjalankan command pada command prompt**
 
 - python3 --version
 - pip3 --version
