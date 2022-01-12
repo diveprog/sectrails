@@ -4,7 +4,7 @@ import json
 import os
 from datetime import datetime
 
-print ("\nsectrails.py Subdomain Scanning\n")
+print ("\nsectrails.py Subdomain Scanning \n")
 
 json_data_list = []
 s = datetime.now()
