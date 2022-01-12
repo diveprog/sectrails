@@ -57,7 +57,7 @@ _-Apabila belum memiliki Python dan pip_
 Apabila sudah terinstall Python maka langkah selanjutnya yakni instalasi dependensi / install 
 library yang digunakan oleh sectrails.py
 
-# berikut command pada Terminal yang sudah terinstalasi python:
+# Command pada Terminal yang sudah terinstalasi python:
 
 - pip install -r requirements.txt
 - pip3 install -r requirements.txt
