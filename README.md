@@ -14,11 +14,11 @@ berjalan pada CLI sehingga dibutuhkan 'command prompt' pada Windows atau 'Termin
 Berikut cara melakukan instalasinya
 
 - Unzip aplikasi menggunakan
-# linux
+ **Linux**
 
 - sudo unzip sectrails.zip
 
-# Windows
+**Windows**
 
 - klik kanan pada folder > extract to folder
 
@@ -28,13 +28,13 @@ Berikut cara melakukan instalasinya
 - pip3 --version
 
 # _-Apabila belum memiliki Python dan pip-_
-# Linux Debian
+**Linux Debian**
 
 - sudo apt install python3
 - sudo apt install python3-pip / sudo install apt python-pip
 - sudo apt update
 
-# Windows 
+**Windows **
 
 - Kunjungi website https://www.python.org/downloads/
 - Download Python versi 3 yang tertera pada awal halaman, berwarna kotak kuning
@@ -46,7 +46,7 @@ Berikut cara melakukan instalasinya
 - python3 --version
 - pip3 --version
 
-# Mac OS
+**Mac OS**
 
 - brew install python3
 - brew install python3-pip / sudo apt install  python-pip
