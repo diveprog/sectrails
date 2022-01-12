@@ -94,3 +94,5 @@ Kekurangan:
 - terdapat limit pencarian
 
 ----------------------------------------------------------------------------------------
+
+# Mohon maaf apabila ada fungsi yang tidak bejalan.
