@@ -73,7 +73,7 @@ root
 ![image](https://user-images.githubusercontent.com/95019755/149065432-89efa32a-4b8e-40dd-93f9-0438f3a8a3f9.png)
 
 Masukkan nama domain : (disini diminta untuk memasukkan nama domain tanpa 'http' atau 'https', 
-cth: midtranscom)
+cth: domain.com)
 
 Please provide a file name to save : (disini diminta untuk memasukkan nama file yang mana di simpan 
 dalam bentuk .txt, cth : save-scan.txt)
