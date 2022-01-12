@@ -10,7 +10,7 @@ mendaftar akun).
 
 Untuk bisa menjalankan program ini diperlukan bahasa pemrograman Python dan instalasi dependensi / 
 install library yang digunakan oleh Python agar dapat berjalan sebagaimana mestinya. Program ini 
-berjalan pada CLI sehingga dibutuhkan 'command prompt' pada Windows atau 'Terminal' pada Linux.Nix 
+berjalan pada CLI sehingga dibutuhkan 'command prompt' pada Windows atau 'Terminal' pada Linux / Nix 
 Berikut cara melakukan instalasinya
 
 - Unzip aplikasi menggunakan
