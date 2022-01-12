@@ -75,7 +75,7 @@ root
 
 **--CONTOH PENGGUNAAN--**
 
-sectrails.py Subdomain Scanning
+![image](https://user-images.githubusercontent.com/95019755/149065432-89efa32a-4b8e-40dd-93f9-0438f3a8a3f9.png)
 
 Masukkan nama domain : (disini diminta untuk memasukkan nama domain tanpa 'http' atau 'https', 
 cth: midtranscom)
