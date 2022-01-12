@@ -27,7 +27,7 @@ klik kanan pada folder > extract to folder
 - python3 --version
 - pip3 --version
 
-_-Apabila belum memiliki Python dan pip_
+# _-Apabila belum memiliki Python dan pip_
 # Linux Debian
 
 - sudo apt install python3
