@@ -52,8 +52,7 @@ klik kanan pada folder > extract to folder
 
 ----------------------------------------------------------------------------------------
 
-# Apabila sudah terinstall Python maka langkah selanjutnya yakni instalasi dependensi / install 
-library yang digunakan oleh sectrails.py. Command pada Terminal yang sudah terinstalasi python:
+# _Apabila sudah terinstall Python maka langkah selanjutnya yakni instalasi dependensi / install_
 
 - pip install -r requirements.txt
 - pip3 install -r requirements.txt
