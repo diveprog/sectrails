@@ -71,7 +71,8 @@ root
 
 **--CONTOH PENGGUNAAN--**
 
-![image](https://user-images.githubusercontent.com/95019755/149070812-f9842e31-e2b7-4d98-920d-5a3f5084407c.png)
+![image](https://user-images.githubusercontent.com/95019755/149071090-1744c26e-f0ad-4369-836c-6e39af0c4aa0.png)
+
 
 Masukkan nama domain : (disini diminta untuk memasukkan nama domain tanpa 'http' atau 'https', 
 cth: domain.com)
